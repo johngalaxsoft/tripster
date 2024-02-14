@@ -14,7 +14,7 @@ const CommonVideoModal: FC<CommonVideoModalInterFace> = ({ modal, toggle }) => {
       <ModalBody className="video-model">
         <iframe
           className="video"
-          src="https://www.youtube.com/embed/TKnufs85hXk"
+          src="https://www.youtube.com/embed/XNgfKp3ybeQ?si=BZYn3ZhR7PbWXpXT"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowFullScreen
         />
