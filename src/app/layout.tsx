@@ -5,8 +5,8 @@ import { Providers } from "@/redux-toolkit/provider";
 import { ToastContainer } from "react-toastify";
 
 export const metadata: Metadata = {
-  title: "FriendBookNext",
-  description: "themes.pixelstrap.com",
+  title: "Tripster",
+  description: "Find Friends, Stay Free and Experience New Things",
 };
 
 export default function RootLayout({
